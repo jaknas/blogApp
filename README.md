@@ -11,3 +11,5 @@ NPM dependencies are located in packages.json
 
 # showcase of working app on localhost:
 [click me](https://gfycat.com/SpectacularGeneralAuk)
+# Actual deployed website:
+# [click](https://blogapp-rigzkkdllt.now.sh/blogs)
